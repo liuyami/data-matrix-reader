@@ -2,3 +2,4 @@
 *.iml
 /php/
 /__pycache__/
+/index.php
